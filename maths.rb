@@ -1,3 +1,4 @@
+# Made by Sinqq
 print "Wanted (add,subs,divd,mltp):"
 need = gets.chomp
 if need = "add" then {
